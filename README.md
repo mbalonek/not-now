@@ -1,5 +1,5 @@
 ![icon-128-chrome_web_store](https://user-images.githubusercontent.com/114364387/229597575-8353a1d0-2e00-41fb-bf5d-957ddaf978cf.jpg)
-# not-now
+# Not now..
 
 NotNow saves ideas while browsing the web. Keep the titles of books, albums, movies, food recipes and more before you forget them. No account creation, synchronization or login is required. 
 
